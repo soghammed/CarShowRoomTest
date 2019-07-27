@@ -183,7 +183,7 @@ class App extends Component {
     let cars = this.state.cars.slice((indexOfLastCar - carsPerPage), indexOfLastCar);
     return(
       <div className="App">
-        <div className="banner">Name
+        <div className="banner">
           <h5 className="hTitle">THE SHOWROOM</h5>
           <div className="hTitleBBorder"></div>
           <div className="searchbybox">
