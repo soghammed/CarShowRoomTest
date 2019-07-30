@@ -3,5 +3,5 @@
 ```
 cd frontend   
 npm install    
-npm serve    
+npm start    
 ```
